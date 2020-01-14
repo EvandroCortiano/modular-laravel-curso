@@ -1,0 +1,15 @@
+{
+    "name": "evandro/curso",
+    "description": "",
+    "authors": [
+        {
+            "name": "Evandro Cassio Cortiano",
+            "email": "evandrocortiano@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sys\\Curso\\": ""
+        }
+    }
+}
